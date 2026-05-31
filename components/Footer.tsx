@@ -1,9 +1,9 @@
 import { Instagram, Linkedin, Send } from "lucide-react";
 
 const socials = [
-  { href: "https://linkedin.com/in/sardor-sunatullayev", label: "LinkedIn", icon: Linkedin },
-  { href: "https://t.me/thelastr0n1n", label: "Telegram", icon: Send },
-  { href: "https://instagram.com/thelastr0n1n_", label: "Instagram", icon: Instagram },
+  { href: "https://linkedin.com/in/astrospectrum", label: "LinkedIn", icon: Linkedin },
+  { href: "https://t.me/astro_spectrum", label: "Telegram", icon: Send },
+  { href: "https://instagram.com/astro_spectrum", label: "Instagram", icon: Instagram },
 ];
 
 export default function Footer() {
